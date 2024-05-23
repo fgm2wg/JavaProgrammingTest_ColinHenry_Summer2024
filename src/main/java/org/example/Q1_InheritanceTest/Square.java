@@ -1,4 +1,4 @@
-package org.example.Q1_Inheritance;
+package org.example.Q1_InheritanceTest;
 
 /**
  * Represents a 2D square shape

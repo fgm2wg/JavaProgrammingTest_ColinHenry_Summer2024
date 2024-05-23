@@ -1,4 +1,4 @@
-package org.example.Q1_Inheritance;
+package org.example.Q1_InheritanceTest;
 
 import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.assertEquals;

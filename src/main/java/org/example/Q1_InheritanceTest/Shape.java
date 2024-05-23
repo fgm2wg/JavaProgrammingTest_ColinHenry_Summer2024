@@ -1,4 +1,4 @@
-package org.example.Q1_Inheritance;
+package org.example.Q1_InheritanceTest;
 
 /**
  * Interface represents a 2D geometric shape (with sides)

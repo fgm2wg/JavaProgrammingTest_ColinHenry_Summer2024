@@ -1,7 +1,5 @@
-package org.example.Q1_Inheritance;
+package org.example.Q1_InheritanceTest;
 
-import java.sql.SQLOutput;
-import java.util.ArrayList;
 import java.util.List;
 
 public class InheritanceRunner {
