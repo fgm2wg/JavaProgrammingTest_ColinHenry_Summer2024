@@ -1,5 +1,8 @@
 package org.example.Q1_InheritanceTest;
 
+import org.example.Q1_Inheritance.Rectangle;
+import org.example.Q1_Inheritance.Square;
+import org.example.Q1_Inheritance.Triangle;
 import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.assertEquals;
 

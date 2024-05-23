@@ -1,4 +1,4 @@
-package org.example.Q1_InheritanceTest;
+package org.example.Q1_Inheritance;
 
 import java.util.List;
 
