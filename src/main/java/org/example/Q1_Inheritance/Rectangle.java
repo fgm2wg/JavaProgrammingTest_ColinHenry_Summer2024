@@ -82,4 +82,9 @@ public class Rectangle implements Shape {
     public int getSides() {
         return 4;
     }
+
+    @Override
+    public String toString() {
+        return "Rectangle (length " + length + " and width " + width + ")";
+    }
 }

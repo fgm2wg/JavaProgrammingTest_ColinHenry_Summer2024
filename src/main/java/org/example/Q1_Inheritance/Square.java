@@ -59,4 +59,9 @@ public class Square implements Shape {
     public int getSides() {
         return 4;
     }
+
+    @Override
+    public String toString() {
+        return "Square (side length " + length + ")";
+    }
 }
