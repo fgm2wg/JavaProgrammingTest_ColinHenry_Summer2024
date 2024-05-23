@@ -2,6 +2,7 @@ package org.example;
 
 import org.example.Q1_Inheritance.InheritanceRunner;
 import org.example.Q2_Generics.GenericsRunner;
+import org.example.Q3_ObjectComparison.ObjectComparisonRunner;
 
 public class Main {
     public static void main(String[] args) {
@@ -12,7 +13,7 @@ public class Main {
         GenericsRunner.run();
 
         // Question 3. Object Comparison
-
+        ObjectComparisonRunner.run();
 
         // Question 4. Unit Test & Mocking
 
